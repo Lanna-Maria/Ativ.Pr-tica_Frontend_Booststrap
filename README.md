@@ -9,8 +9,4 @@ Este projeto foi desenvolvido como parte das atividades da disciplina de Tópico
 - **CSS3**
 - **Bootstrap 5**
 
-  ![Captura de Tela (570)](https://github.com/user-attachments/assets/c4338c6a-1e04-4fae-8950-ad7489b22ee4)
-
-![Captura de Tela (569)](https://github.com/user-attachments/assets/1eada474-c212-4641-a633-9e4531443ca7)
-
-
+![Captura de Tela (572)](https://github.com/user-attachments/assets/0028300e-e760-48dc-b63f-1a433471d108)
